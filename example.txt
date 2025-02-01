@@ -1,0 +1,5 @@
+1. post endpoint that accepts name and eamil, and turns the name into uppercase and email to lowercase then return the output to the user
+
+2. calculator, add, substract, divide, multiplication. endpoint must accept two numbers and an operator.
+
+3. must accept a name and age and return custom text based on that
